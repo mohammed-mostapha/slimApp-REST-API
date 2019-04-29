@@ -25,3 +25,8 @@ Run this command in the application directory to run the test suite
 	php composer.phar test
 
 That's it! Now go build something cool.
+
+
+USE resteasy chrome extension to test this REST API CRUD functionality.
+this API recieves data with in json format and outputs data in the browser in json format...
+or you can dive in the code and change the output format with php .
